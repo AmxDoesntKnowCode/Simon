@@ -4,3 +4,4 @@
 <p>Requirements: </p>
 <p>* atleast windows 7</p>
 <p>* GCC 15. you can download it <a href="https://winlibs.com/">here</a></p>
+<mark><strong>**For questions Discord -> amx4lif3</strong></mark>
